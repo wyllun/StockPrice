@@ -1,4 +1,4 @@
-# Machine learning and Deep Learning stock price prediction based on sentiment analysis optimization
+Machine learning and Deep Learning stock price prediction based on sentiment analysis optimization
 DS 340W 
 Yeman & Yulun
 All functions are stored in Machine learning and Deep Learning stock price prediction based on sentiment analysis optimization
